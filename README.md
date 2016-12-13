@@ -12,11 +12,11 @@ Screen Shot
 
 Environment
 -----
-Windows 8.1
-Unity 5.3.0f4
-OpenCVForUnity2.0.9
-DlibFaceLandmarkDetector1.0.3 (and DlibFaceLandmarkDetectorWithOpenCVSample)
-Live2D version 2.1.02 for Unity
+Windows 8.1  
+Unity 5.3.0f4  
+OpenCVForUnity2.0.9  
+DlibFaceLandmarkDetector1.0.3 (and DlibFaceLandmarkDetectorWithOpenCVSample)  
+Live2D version 2.1.02 for Unity  
 
 
 Setup
