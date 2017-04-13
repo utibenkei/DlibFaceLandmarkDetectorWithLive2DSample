@@ -38,6 +38,6 @@ Demo
 - WebGL
 <https://utibenkei.github.io/DlibFaceLandmarkDetectorWithLive2DSample/webgl_sample/index.html>
 - Android
-<http://utibenkei.bitbucket.org/dlibfacelandmarkdetectorwithlive2dsample_543.apk>
+<http://utibenkei.bitbucket.io/dlibfacelandmarkdetectorwithlive2dsample_543.apk>
 
 
